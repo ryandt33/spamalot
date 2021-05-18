@@ -1,0 +1,11 @@
+{
+  "mgDomain": "",
+  "mgAPIKey": "",
+  "sender": "",
+  "body": "",
+  "title": "",
+  "tags": {
+    "o:tag": ["Tag name"],
+    "o:tracking-opens": true
+  }
+}
